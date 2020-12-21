@@ -112,9 +112,6 @@ You can use
 ## Links
 <a href="https://www.lojaoshop.com/"></a>
 
-## Images
-<img src"https://www.lojaoshop.com/images/logo.jpg">
-
 ## Quotes
 You can use
 <blockquote> This to create a quote.</blockquote>
