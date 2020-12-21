@@ -127,11 +127,11 @@ You can use
 </ul>
 
 ## Code
-<code><pre>
+<pre><code>
   main() {
       print("Hello World!")
   }
-</pre></code>
+</code></pre>
 
 ## Tables
 <table>
